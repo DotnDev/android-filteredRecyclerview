@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecyclerViewFilteredSearch</string>
+
+    <string name="title1">Plastic flowers</string>
+    <string name="title2">Angel poster</string>
+    <string name="title3">Office chair</string>
+    <string name="title4">Microwave</string>
+    <string name="title5">Kettle</string>
+    <string name="title6">Coffee table</string>
+
+
+    <string name="category1">Decoration</string>
+    <string name="category2">Furniture</string>
+    <string name="category3">Home appliance</string>
+
+
+    <string-array name="category_array" translatable="true">
+        <item>Category</item>
+        <item>Expendable</item>
+        <item>Cleaning Products</item>
+        <item>Clothes and Accessories</item>
+        <item>Hygiene and Cosmetics</item>
+        <item>Home appliance</item>
+        <item>Decoration</item>
+        <item>Furniture</item>
+        <item>Garden</item>
+        <item>Hobbies</item>
+        <item>Kitchen</item>
+        <item>Other</item>
+    </string-array>
+
+
+
+</resources>
